@@ -1,16 +1,16 @@
-# 📘 Computer Programming (Spring 2025)
+# Computer Programming (Spring 2025)
 
 This repository contains all the work I did for my **Computer Programming** course in Spring 2025. Everything is written in **C++** and organized by category — assignments, lab tasks, self-practice code, along with dedicated repositories for the semester project and project-based learning.
 
-## 📂 Contents
+## Contents
 
-* 📝 **Assignments** – All submitted assignments for the theory course
-* 💻 **Lab Tasks** – Weekly lab exercises and implementations
-* 🚀 [**Semester Project**](https://github.com/muhammad-hasannn/smart-ticketing-system) – Final lab project
-* 📊 [**Project-Based Learning (PBL)**](https://github.com/muhammad-hasannn/bucis-ems) – Assignment 3 of theory course
-* 📚 **Self-Learning Code** – Extra practice and concepts explored independently
+* **Assignments** – All submitted assignments for the theory course
+* **Lab Tasks** – Weekly lab exercises and implementations
+* [**Semester Project**](https://github.com/muhammad-hasannn/smart-ticketing-system) – Final lab project
+* [**Project-Based Learning (PBL)**](https://github.com/muhammad-hasannn/bucis-ems) – Assignment 3 of theory course
+* **Self-Learning Code** – Extra practice and concepts explored independently
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── Assignments/
@@ -34,7 +34,6 @@ This repository contains all the work I did for my **Computer Programming** cour
 │   ├── Lab 11 - Structures/
 │   ├── Lab 12 - Strings/
 │   ├── Lab 13 - File Handling/
-│   ├── Lab Exams/
 │   ├── Semester Project/
 │   └── CPL Journal.pdf
 |
