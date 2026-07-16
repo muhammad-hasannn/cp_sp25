@@ -10,9 +10,10 @@ This repository contains all the work I did for my **Computer Programming** cour
 * [**Project-Based Learning (PBL)**](https://github.com/muhammad-hasannn/bucis-ems) – Assignment 3 of theory course
 * **Self-Learning Code** – Extra practice and concepts explored independently
 
-## Repository Structure
+## Contents
 
 ```
+cp_sp25
 ├── Assignments/
 │   ├── Assignment 01/
 │   ├── Assignment 02/
@@ -39,7 +40,7 @@ This repository contains all the work I did for my **Computer Programming** cour
 |
 ├── Self Practice/
 │   ├── Arrays/
-│   │   ├── Sorting/
+│   ├── Sorting/
 │   ├── Pointers/
 │   └── Recursion/
 └── README.md
